@@ -1,0 +1,44 @@
+Added Component: Designator=CON1(RJ45-CHASSISCONNECTOR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RJ45-TOP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "1"; VariantName = "[No Variations]"
+Added Component: Designator=J1(615008142521)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/615008142521.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part_Group_Name"; Value = "connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "615008142521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "615008142521"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinNumber"; Value = "8P8C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Placement_Type"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PublishedDate"; Value = "July 2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetCON1_1 Pin=CON1-1
+Added Pin To Net: NetName=NetCON1_1 Pin=J1-1
+Added Net: Name=NetCON1_1
+Added Pin To Net: NetName=NetCON1_2 Pin=CON1-2
+Added Pin To Net: NetName=NetCON1_2 Pin=J1-2
+Added Net: Name=NetCON1_2
+Added Pin To Net: NetName=NetCON1_3 Pin=CON1-3
+Added Pin To Net: NetName=NetCON1_3 Pin=J1-3
+Added Net: Name=NetCON1_3
+Added Pin To Net: NetName=NetCON1_4 Pin=CON1-4
+Added Pin To Net: NetName=NetCON1_4 Pin=J1-4
+Added Net: Name=NetCON1_4
+Added Pin To Net: NetName=NetCON1_5 Pin=CON1-5
+Added Pin To Net: NetName=NetCON1_5 Pin=J1-5
+Added Net: Name=NetCON1_5
+Added Pin To Net: NetName=NetCON1_6 Pin=CON1-6
+Added Pin To Net: NetName=NetCON1_6 Pin=J1-6
+Added Net: Name=NetCON1_6
+Added Pin To Net: NetName=NetCON1_7 Pin=CON1-7
+Added Pin To Net: NetName=NetCON1_7 Pin=J1-7
+Added Net: Name=NetCON1_7
+Added Pin To Net: NetName=NetCON1_8 Pin=CON1-8
+Added Pin To Net: NetName=NetCON1_8 Pin=J1-8
+Added Net: Name=NetCON1_8
+Added Class: Name=rj45_breakout
+Added Room: Name=rj45_breakout
